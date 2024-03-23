@@ -114,3 +114,34 @@ Windows Form App ile Bir Kütüphane Bilgi Sistemi (giriş sayfası, yönetici s
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/f222c6ff-ea4a-4336-a50d-f8c4f34aa872)
 
 20. Üye Girişi => Yanlış Kullanıcı Adı veya Şifresi ile Başarısız Giriş Denemesi ve Uyarı Mesajı
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/e9088d4e-5b94-4aeb-992e-a051b7ad15d0)
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/9074dc13-ce09-4d29-a032-cdb7c0459e14)
+
+21. Yönetici (admin) Girişi => Doğru Kullanıcı Adı ve Şifresi ile Başarılı Giriş
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/2f513ccc-e0a9-40ae-90e3-8ac65e415ac0)
+
+22. Üye Sayfası
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/f2717565-5be5-4349-ba58-972ec90a834d)
+
+23. Bulunmak İstenilen Kitabın "Kitap ID" değerinin ilgili TextBox'a Yazılması ve "Ara" Butonuna Basılarak "Kitaplar" Tablosunda İlgili Veriye Ulaşılması İşlemi
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/0f2a5130-7864-4dbb-b030-2e5caddcb43e)
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/a7193b85-c305-48ca-8319-a224f9a82888)
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/9c7c9658-2bd0-4e87-bb24-65fb26086f3b)
+
+24. "Yenile" Butonu ile "Kitaplar" Tablosunun Yenilenmesi İşlemi
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/94820ac6-f5a9-4abc-bc40-56ae30705615)
+
+25. "Çıkış Yap" Butonu ile Üye Sayfasından Çıkış Yapılarak Kullanıcının Giriş Sayfasına Yönlendirilmesi ve Uyarı Mesajı
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/375fbba6-edc6-490a-83f2-e609cece5519)
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/70c1ab82-f860-481c-81d7-b12eac9f40f9)
+

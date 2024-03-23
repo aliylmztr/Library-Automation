@@ -53,4 +53,18 @@ Windows Form App ile Bir Kütüphane Bilgi Sistemi (giriş sayfası, yönetici s
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/829ff9a0-c260-4483-b8ce-3b07f879a72d)
 
+10. "Kitaplar" Tablosunda Kullanıcı Tarafından Mouse ile Seçilen Satırdaki Verinin Sütun Bilgilerinin "Kitap İşlemleri" Bölümündeki TextBox'larda Otomatik Olarak Görüntülenmesi
 
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/9c612e79-ced8-4fb5-a371-755b4f46242b)
+
+11. "Kitaplar" Tablosuna Yeni Veri Ekleme İşlemi
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/983c6045-2a08-427d-a304-6ce9b5f75107)
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/6c00023b-4559-4924-8784-02cc163e0c3f)
+
+12. "Kitaplar" Tablosunda Seçilen Verinin Silinmesi İşlemi
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/ce4c7922-a514-4e01-b029-0aeb186a3690)
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/d5819a2d-3a6e-4d6e-bd8a-f7a3f80ac103)

@@ -23,6 +23,8 @@ Windows Form App ile Bir Kütüphane Bilgi Sistemi (giriş sayfası, yönetici s
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/f93e2473-1b1f-4a86-b5bd-f42449ebab0a)
 
+5. "Kişiler" Tablosunda Kullanıcı Tarafından Mouse ile Seçilen Satırdaki Verinin Sütun Bilgilerinin "Üye İşlemleri" Bölümündeki TextBox'larda Otomatik Olarak Görüntülenmesi
+
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/79aea582-3daf-4ff0-bb8d-cdf38f83feb5)
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/24336ed7-c36f-4a64-90d4-d927bcb70536)

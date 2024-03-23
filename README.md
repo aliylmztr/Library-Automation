@@ -71,8 +71,15 @@ Windows Form App ile Bir Kütüphane Bilgi Sistemi (giriş sayfası, yönetici s
 
 13. "Kitaplar" Tablosunda Seçilen Verinin İstenilen Sütun Bilgisi ya da Bilgilerinin Güncellenmesi İşlemi
 
-![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/a3e34216-37ea-4259-b985-6fb36e5cc693)
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/8a3307ef-77ab-4323-88f5-5bd6dd3e22fa)
 
-![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/e3d0bfac-1848-42b9-943c-151423089165)
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/bcaf5f3a-01a8-49da-b44a-3931f5b89922)
 
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/b8b91dd1-bcdd-467d-af1c-5a963150c7f0)
+
+14. "Kitap İşlemleri" Bölümündeki TextBox'larda Yazılı Olan Verilerin "Temizle" Butonu ile Temizlenme İşlemi
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/d27b6e49-d9fa-4f8f-a1b9-4af4b1e52033)
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/68a446e0-6156-4e4f-86bd-0fb0aedc59bc)
 

@@ -35,7 +35,7 @@ Windows Form App ile Bir Kütüphane Bilgi Sistemi (giriş sayfası, yönetici s
 
 7. "Kişiler" Tablosunda Seçilen Verinin Silinmesi İşlemi
 
-![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/f54417fe-ba89-488a-bb0e-3f064e971fdf)
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/7cbafb56-f29a-47b3-8f67-ebfc47207c5e)
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/5e961daa-9c5f-4f43-9ea2-0ba366de5124)
 
@@ -48,3 +48,9 @@ Windows Form App ile Bir Kütüphane Bilgi Sistemi (giriş sayfası, yönetici s
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/6f0dda19-7da0-43b4-8457-e8d3f0d4b4f2)
 
 9. "Üye İşlemleri" Bölümündeki TextBox'larda Yazılı Olan Verilerin "Temizle" Butonu ile Temizlenme İşlemi
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/32a4a4e9-9516-487a-887d-306706a729ca)
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/829ff9a0-c260-4483-b8ce-3b07f879a72d)
+
+

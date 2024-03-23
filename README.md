@@ -27,15 +27,17 @@ Windows Form App ile Bir Kütüphane Bilgi Sistemi (giriş sayfası, yönetici s
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/79aea582-3daf-4ff0-bb8d-cdf38f83feb5)
 
-6. "Kişiler" Tablosuna Veri Ekleme İşlemi
+6. "Kişiler" Tablosuna Yeni Veri Ekleme İşlemi
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/24336ed7-c36f-4a64-90d4-d927bcb70536)
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/ed33040b-e591-44ac-99a4-3bfbc65a2c0b)
 
-7.
+7. "Kişiler" Tablosunda Seçilen Verinin Silinmesi İşlemi
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/f54417fe-ba89-488a-bb0e-3f064e971fdf)
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/5e961daa-9c5f-4f43-9ea2-0ba366de5124)
+
+8. 
 

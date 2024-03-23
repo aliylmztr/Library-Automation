@@ -68,3 +68,11 @@ Windows Form App ile Bir Kütüphane Bilgi Sistemi (giriş sayfası, yönetici s
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/ce4c7922-a514-4e01-b029-0aeb186a3690)
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/d5819a2d-3a6e-4d6e-bd8a-f7a3f80ac103)
+
+13. "Kitaplar" Tablosunda Seçilen Verinin İstenilen Sütun Bilgisi ya da Bilgilerinin Güncellenmesi İşlemi
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/a3e34216-37ea-4259-b985-6fb36e5cc693)
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/e3d0bfac-1848-42b9-943c-151423089165)
+
+

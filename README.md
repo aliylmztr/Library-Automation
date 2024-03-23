@@ -53,23 +53,35 @@ Windows Form App ile Bir Kütüphane Bilgi Sistemi (giriş sayfası, yönetici s
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/829ff9a0-c260-4483-b8ce-3b07f879a72d)
 
-10. "Kitaplar" Tablosunda Kullanıcı Tarafından Mouse ile Seçilen Satırdaki Verinin Sütun Bilgilerinin "Kitap İşlemleri" Bölümündeki TextBox'larda Otomatik Olarak Görüntülenmesi
+10. Bulunmak İstenilen Kişinin "ID" değerinin ilgili TextBox'a Yazılması ve "Ara" Butonuna Basılarak "Kişiler" Tablosunda İlgili Veriye Ulaşılması İşlemi
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/6f14560b-7c82-44b6-aeac-a7753d99f309)
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/38cabb42-cfc1-4174-950c-aed4a3ac3601)
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/0e6be394-0c68-4823-917c-7410bcf1675e)
+
+11. "Yenile" Butonu ile "Kişiler" Tablosunun Yenilenmesi İşlemi
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/3f85c5b3-737d-49d7-9d7f-92bcc8e64d43)
+
+12. "Kitaplar" Tablosunda Kullanıcı Tarafından Mouse ile Seçilen Satırdaki Verinin Sütun Bilgilerinin "Kitap İşlemleri" Bölümündeki TextBox'larda Otomatik Olarak Görüntülenmesi
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/9c612e79-ced8-4fb5-a371-755b4f46242b)
 
-11. "Kitaplar" Tablosuna Yeni Veri Ekleme İşlemi
+13. "Kitaplar" Tablosuna Yeni Veri Ekleme İşlemi
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/983c6045-2a08-427d-a304-6ce9b5f75107)
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/6c00023b-4559-4924-8784-02cc163e0c3f)
 
-12. "Kitaplar" Tablosunda Seçilen Verinin Silinmesi İşlemi
+14. "Kitaplar" Tablosunda Seçilen Verinin Silinmesi İşlemi
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/ce4c7922-a514-4e01-b029-0aeb186a3690)
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/d5819a2d-3a6e-4d6e-bd8a-f7a3f80ac103)
 
-13. "Kitaplar" Tablosunda Seçilen Verinin İstenilen Sütun Bilgisi ya da Bilgilerinin Güncellenmesi İşlemi
+15. "Kitaplar" Tablosunda Seçilen Verinin İstenilen Sütun Bilgisi ya da Bilgilerinin Güncellenmesi İşlemi
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/8a3307ef-77ab-4323-88f5-5bd6dd3e22fa)
 
@@ -77,9 +89,12 @@ Windows Form App ile Bir Kütüphane Bilgi Sistemi (giriş sayfası, yönetici s
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/b8b91dd1-bcdd-467d-af1c-5a963150c7f0)
 
-14. "Kitap İşlemleri" Bölümündeki TextBox'larda Yazılı Olan Verilerin "Temizle" Butonu ile Temizlenme İşlemi
+16. "Kitap İşlemleri" Bölümündeki TextBox'larda Yazılı Olan Verilerin "Temizle" Butonu ile Temizlenme İşlemi
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/d27b6e49-d9fa-4f8f-a1b9-4af4b1e52033)
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/68a446e0-6156-4e4f-86bd-0fb0aedc59bc)
+
+17. Bulunmak İstenilen Kitabın "Kitap ID" değerinin ilgili TextBox'a Yazılması ve "Ara" Butonuna Basılarak "Kitaplar" Tablosunda İlgili Veriye Ulaşılması İşlemi
+
 

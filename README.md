@@ -9,15 +9,17 @@ Windows Form App ile Bir Kütüphane Bilgi Sistemi (giriş sayfası, yönetici s
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/c97f8572-0383-4d15-932a-c56a8bd622fa)
 
-2. Yönetici (admin) Yanlış Kullanıcı Adı veya Şifresi ile Başarısız Giriş Denemesi ve Uyarı Mesajı
+2. Yönetici (admin) Girişi => Yanlış Kullanıcı Adı veya Şifresi ile Başarısız Giriş Denemesi ve Uyarı Mesajı
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/735cbef9-718a-4a3b-ad88-68c3142884dc)
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/81986742-979f-420f-84e6-f10d0814fc0f)
 
+3. Yönetici (admin) Girişi => Doğru Kullanıcı Adı ve Şifresi ile Başarılı Giriş
+
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/2e3f767f-5434-4652-bdc7-4fdab7e550ba)
 
-2. Admin Sayfası
+4. Admin Sayfası
 
 ![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/f93e2473-1b1f-4a86-b5bd-f42449ebab0a)
 

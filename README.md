@@ -97,4 +97,20 @@ Windows Form App ile Bir Kütüphane Bilgi Sistemi (giriş sayfası, yönetici s
 
 17. Bulunmak İstenilen Kitabın "Kitap ID" değerinin ilgili TextBox'a Yazılması ve "Ara" Butonuna Basılarak "Kitaplar" Tablosunda İlgili Veriye Ulaşılması İşlemi
 
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/eb51435c-f09a-4108-b1ae-7871059137aa)
 
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/e0419f59-eb1b-4ac7-857b-73587098161d)
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/6502918c-eb27-498a-afe3-f6f6ad6b08d2)
+
+18. "Yenile" Butonu ile "Kitaplar" Tablosunun Yenilenmesi İşlemi
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/b737df68-f830-4f63-870c-32556b40027b)
+
+19. "Çıkış Yap" Butonu ile Admin Sayfasından Çıkış Yapılarak Kullanıcının Giriş Sayfasına Yönlendirilmesi ve Uyarı Mesajı
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/29e18fcc-4df6-4e17-a99f-fdf0d934e64b)
+
+![image](https://github.com/aliylmztr/Library-Automation/assets/123991935/f222c6ff-ea4a-4336-a50d-f8c4f34aa872)
+
+20. Üye Girişi => Yanlış Kullanıcı Adı veya Şifresi ile Başarısız Giriş Denemesi ve Uyarı Mesajı
